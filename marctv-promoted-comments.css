@@ -1,0 +1,4 @@
+.promoted-comments h3:before {
+  content: '★';
+  margin-right: 0.2em;
+}
